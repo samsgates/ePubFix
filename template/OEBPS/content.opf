@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="book-id" version="2.0">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title></dc:title>
+<dc:identifier id="book-id" opf:scheme="ISBN">000-0-00000-000-0</dc:identifier>
+<dc:language>en</dc:language>
+<dc:creator></dc:creator>
+<dc:publisher></dc:publisher>
+<dc:date></dc:date>
+<dc:rights></dc:rights>
+<meta property="media:active-class">-epub-media-overlay-active</meta>
+<meta name="cover" content="cover-image"/>
+</metadata>
+
+<guide>
+    <reference type="cover" title="Cover" href="html/cover.html" />
+    <reference type="text" title="Page1" href="html/page1.html" />
+</guide>
+</package>
