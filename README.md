@@ -14,6 +14,8 @@ http://www.verypdf.com/app/pdf-font-extractor/index.html
 AsponsePDF
 https://purchase.aspose.com/pricing/pdf/net
 
+WinForm Framework
+https://github.com/ComponentFactory/Krypton
 
 
 Project details : http://epubfix.blogspot.com/
